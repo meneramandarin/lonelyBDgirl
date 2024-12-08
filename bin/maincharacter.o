@@ -1,0 +1,43 @@
+XL4
+H 9 areas 6 global symbols
+M maincharacter
+O -msm83
+S .__.ABS. Def00000000
+S ___bank_maincharacter Def00000000
+A _CODE size 4C flags 0 addr 0
+S _maincharacter_map Def00000048
+S _maincharacter_tiles Def00000008
+S _maincharacter_palettes Def00000000
+S ___func_maincharacter Def00000000
+A _DATA size 0 flags 0 addr 0
+A _INITIALIZED size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _INITIALIZER size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00 FF 7F D6 5A 4A 29 00 00
+R 00 00 00 00
+T 08 00 00 00
+R 00 00 00 00
+T 08 00 00 00 00 00 00 00 07 0F 0D 1A 10 1D 15 1A
+R 00 00 00 00
+T 14 00 00 00 10 1F 13 1E 00 00 00 00 E0 F0 10 F8
+R 00 00 00 00
+T 20 00 00 00 08 F8 28 98 88 18 48 58 16 1A 14 38
+R 00 00 00 00
+T 2C 00 00 00 27 20 21 26 1B 3C 08 0F 1F 09 00 00
+R 00 00 00 00
+T 38 00 00 00 48 58 28 1C E4 04 84 64 D8 3C 10 F0
+R 00 00 00 00
+T 44 00 00 00 F8 90 00 00
+R 00 00 00 00
+T 48 00 00 00
+R 00 00 00 00
+T 48 00 00 00 00 01 02 03
+R 00 00 00 00

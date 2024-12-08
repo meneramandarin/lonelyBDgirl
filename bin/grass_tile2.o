@@ -1,0 +1,43 @@
+XL4
+H 9 areas 6 global symbols
+M grass_tile2
+O -msm83
+S .__.ABS. Def00000000
+S ___bank_grass_tile2 Def00000000
+A _CODE size 4C flags 0 addr 0
+S ___func_grass_tile2 Def00000000
+S _grass_tile2_map Def00000048
+S _grass_tile2_tiles Def00000008
+S _grass_tile2_palettes Def00000000
+A _DATA size 0 flags 0 addr 0
+A _INITIALIZED size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _INITIALIZER size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00 D6 5A FF 7F 00 00 00 00
+R 00 00 00 00
+T 08 00 00 00
+R 00 00 00 00
+T 08 00 00 00 FF 00 FF 00 FF 00 D7 00 EF 00 FF 00
+R 00 00 00 00
+T 14 00 00 00 FF 00 FD 00 BF 00 FF 00 FF 00 FF 00
+R 00 00 00 00
+T 20 00 00 00 FF 00 D7 00 EF 00 7F 00 FE 00 FF 00
+R 00 00 00 00
+T 2C 00 00 00 FB 00 B3 00 97 00 DF 00 FF 00 FF 00
+R 00 00 00 00
+T 38 00 00 00 FF 00 FB 00 F3 00 F7 00 FF 00 FF 00
+R 00 00 00 00
+T 44 00 00 00 FF 00 5F 00
+R 00 00 00 00
+T 48 00 00 00
+R 00 00 00 00
+T 48 00 00 00 00 01 02 03
+R 00 00 00 00

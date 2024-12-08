@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "GBDK",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/marleneronstedt/dev/gbdev/gbdk/include/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/Users/marleneronstedt/dev/gbdev/gbdk/bin/lcc",
+            "cStandard": "c99",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gb.h": "c",
+        "metasprites.h": "c",
+        "player.h": "c",
+        "dialog.h": "c"
+    }
+}
